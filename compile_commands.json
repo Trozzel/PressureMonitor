@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/gford1/Documents/Cpp/SkerlBox/build",
+  "command": "C:\\Users\\gford1\\LocalPrograms\\MinGW\\bin\\g++.exe  @CMakeFiles/SkerlBox.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SkerlBox.dir\\src\\iSerial.cpp.obj -c C:\\Users\\gford1\\Documents\\Cpp\\SkerlBox\\src\\iSerial.cpp",
+  "file": "C:/Users/gford1/Documents/Cpp/SkerlBox/src/iSerial.cpp"
+},
+{
+  "directory": "C:/Users/gford1/Documents/Cpp/SkerlBox/build",
+  "command": "C:\\Users\\gford1\\LocalPrograms\\MinGW\\bin\\g++.exe  @CMakeFiles/SkerlBox.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SkerlBox.dir\\serialib\\serialib.cpp.obj -c C:\\Users\\gford1\\Documents\\Cpp\\SkerlBox\\serialib\\serialib.cpp",
+  "file": "C:/Users/gford1/Documents/Cpp/SkerlBox/serialib/serialib.cpp"
+},
+{
+  "directory": "C:/Users/gford1/Documents/Cpp/SkerlBox/build",
+  "command": "C:\\Users\\gford1\\LocalPrograms\\MinGW\\bin\\g++.exe  @CMakeFiles/SkerlBox.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\SkerlBox.dir\\src\\main.cpp.obj -c C:\\Users\\gford1\\Documents\\Cpp\\SkerlBox\\src\\main.cpp",
+  "file": "C:/Users/gford1/Documents/Cpp/SkerlBox/src/main.cpp"
+}
+]

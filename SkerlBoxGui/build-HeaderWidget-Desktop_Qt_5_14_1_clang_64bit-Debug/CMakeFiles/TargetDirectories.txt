@@ -1,0 +1,4 @@
+/Users/jorge/Cpp/SkerlBox/SkerlBoxGui/build-HeaderWidget-Desktop_Qt_5_14_1_clang_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/jorge/Cpp/SkerlBox/SkerlBoxGui/build-HeaderWidget-Desktop_Qt_5_14_1_clang_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/jorge/Cpp/SkerlBox/SkerlBoxGui/build-HeaderWidget-Desktop_Qt_5_14_1_clang_64bit-Debug/CMakeFiles/HeaderWidget.dir
+/Users/jorge/Cpp/SkerlBox/SkerlBoxGui/build-HeaderWidget-Desktop_Qt_5_14_1_clang_64bit-Debug/CMakeFiles/HeaderWidget_autogen.dir
